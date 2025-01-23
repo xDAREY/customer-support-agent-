@@ -18,8 +18,8 @@ export function Sidebar() {
     )}>
       <div className="p-4 flex justify-center">
         <Image
-          src="/pettify-logo.png"
-          alt="Pettify Logo"
+          src=""
+          alt="Logo"
           width={32}
           height={32}
           className="invert"

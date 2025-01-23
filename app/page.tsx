@@ -39,7 +39,7 @@ export default function LoginPage() {
             />
           </div>
           <CardTitle className="text-2xl font-bold text-center text-orange-500">
-            PETTIFY SUPPORT AGENT
+            SUPPORT AGENT
           </CardTitle>
           <p className="text-center text-black font-bold text-lg">LOGIN</p>
         </CardHeader>
